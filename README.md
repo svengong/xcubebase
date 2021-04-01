@@ -2,7 +2,13 @@
 
 这是一个用于驱动frida脚本的xposed插件
 
+
+
 ### 使用方法
+
+由于libfrida-gumjs.a库100多M，github无法上传，所以请解压xcubebase\app\src\main\cpp\libs目录下的两个zip到当前目录。或者直接去frida官网下载放到libs下
+![image](https://user-images.githubusercontent.com/8065935/113249532-6d181300-92f1-11eb-90d8-9774e857be3c.png)
+
 
 1. 安装插件，打开插件app点击初始化
 2. 初始化过程中用到root权限，请允许su授权
