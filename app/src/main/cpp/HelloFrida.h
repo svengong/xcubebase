@@ -1,0 +1,12 @@
+//
+// Created by sven on 2021/1/14.
+//
+
+#ifndef MY_APPLICATION_HELLOFRIDA_H
+#define MY_APPLICATION_HELLOFRIDA_H
+
+
+
+
+
+#endif //MY_APPLICATION_HELLOFRIDA_H
